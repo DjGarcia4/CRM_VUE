@@ -1,0 +1,204 @@
+{
+  "clients": [
+    {
+      "id": "f3d3",
+      "name": "Jared",
+      "lastname": "Garcia",
+      "email": "denisjared286@gmail.com",
+      "phonenumber": "8785-4736",
+      "company": "Traveling Dreams",
+      "position": "Front-end Developer",
+      "state": true
+    },
+    {
+      "id": "9g32h4f2h3",
+      "name": "Luis",
+      "lastname": "Perez",
+      "email": "luis.perez@example.com",
+      "company": "WINK",
+      "position": "Back-end Developer",
+      "phonenumber": "1234-5678",
+      "state": 1
+    },
+    {
+      "id": "4h3j5k2h1g4",
+      "name": "Maria",
+      "lastname": "Gonzalez",
+      "email": "maria.gonzalez@example.com",
+      "company": "TechCorp",
+      "position": "UI/UX Designer",
+      "phonenumber": "2345-6789",
+      "state": 0
+    },
+    {
+      "id": "2j3k4h5g6f7",
+      "name": "Carolina",
+      "lastname": "Martinez",
+      "email": "carolina.martinez@example.com",
+      "company": "DataSolutions",
+      "position": "Marketing Specialist",
+      "phonenumber": "4567-8901",
+      "state": 0
+    },
+    {
+      "id": "1h2g3f4d5s6",
+      "name": "Pedro",
+      "lastname": "Hernandez",
+      "email": "pedro.hernandez@example.com",
+      "company": "Tech Innovators",
+      "position": "Data Analyst",
+      "phonenumber": "5678-9012",
+      "state": 1
+    },
+    {
+      "id": "5k4j3h2g1f9",
+      "name": "Ana",
+      "lastname": "Lopez",
+      "email": "ana.lopez@example.com",
+      "company": "Softworks",
+      "position": "Quality Assurance Tester",
+      "phonenumber": "6789-0123",
+      "state": 0
+    },
+    {
+      "id": "3h2g1f4d5s6",
+      "name": "Diego",
+      "lastname": "Santos",
+      "email": "diego.santos@example.com",
+      "company": "CodeCrafters",
+      "position": "DevOps Engineer",
+      "phonenumber": "7890-1234",
+      "state": 1
+    },
+    {
+      "id": "6k5j4h3g2f8",
+      "name": "Elena",
+      "lastname": "Fernandez",
+      "email": "elena.fernandez@example.com",
+      "company": "DigitalScape",
+      "position": "Content Writer",
+      "phonenumber": "8901-2345",
+      "state": 0
+    },
+    {
+      "id": "2f3g4h5j6k7",
+      "name": "Miguel",
+      "lastname": "Garcia",
+      "email": "miguel.garcia@example.com",
+      "company": "SmartTech",
+      "position": "Systems Administrator",
+      "phonenumber": "9012-3456",
+      "state": 1
+    },
+    {
+      "id": "9g8h7j6k5j3",
+      "name": "Sofia",
+      "lastname": "Ramirez",
+      "email": "sofia.ramirez@example.com",
+      "company": "InnovaSoft",
+      "position": "Project Manager",
+      "phonenumber": "0123-4567",
+      "state": 0
+    },
+    {
+      "id": "5j4h3g2f1d9",
+      "name": "Alejandro",
+      "lastname": "Reyes",
+      "email": "alejandro.reyes@example.com",
+      "company": "ByteSolutions",
+      "position": "Sales Representative",
+      "phonenumber": "2345-6789",
+      "state": 1
+    },
+    {
+      "id": "1g2h3j4k5f6",
+      "name": "Laura",
+      "lastname": "Castillo",
+      "email": "laura.castillo@example.com",
+      "company": "DataTech",
+      "position": "Customer Success Manager",
+      "phonenumber": "3456-7890",
+      "state": 0
+    },
+    {
+      "id": "7j6k5h4g3f1",
+      "name": "Fernando",
+      "lastname": "Lopez",
+      "email": "fernando.lopez@example.com",
+      "company": "CloudSolutions",
+      "position": "Technical Support Specialist",
+      "phonenumber": "4567-8901",
+      "state": 1
+    },
+    {
+      "id": "3k4j5h6g7f8",
+      "name": "Rosa",
+      "lastname": "Morales",
+      "email": "rosa.morales@example.com",
+      "company": "DataWorks",
+      "position": "Human Resources Coordinator",
+      "phonenumber": "5678-9012",
+      "state": 0
+    },
+    {
+      "id": "8h7g6f5d4s3",
+      "name": "Carlos",
+      "lastname": "Gutierrez",
+      "email": "carlos.gutierrez@example.com",
+      "company": "TechSol",
+      "position": "Financial Analyst",
+      "phonenumber": "6789-0123",
+      "state": 1
+    },
+    {
+      "id": "4j3k2h1g5f6",
+      "name": "Julia",
+      "lastname": "Navarro",
+      "email": "julia.navarro@example.com",
+      "company": "SoftTech",
+      "position": "Operations Manager",
+      "phonenumber": "7890-1234",
+      "state": 0
+    },
+    {
+      "id": "5h4g3f2d1s9",
+      "name": "Roberto",
+      "lastname": "Soto",
+      "email": "roberto.soto@example.com",
+      "company": "DataSolutions",
+      "position": "Business Development Specialist",
+      "phonenumber": "8901-2345",
+      "state": 1
+    },
+    {
+      "id": "1f2g3h4j5k6",
+      "name": "Paula",
+      "lastname": "Ortega",
+      "email": "paula.ortega@example.com",
+      "company": "Softworks",
+      "position": "Legal Counsel",
+      "phonenumber": "9012-3456",
+      "state": 0
+    },
+    {
+      "id": "6j5k4h3g2f1",
+      "name": "Gabriel",
+      "lastname": "Fuentes",
+      "email": "gabriel.fuentes@example.com",
+      "company": "CodeCrafters",
+      "position": "IT Manager",
+      "phonenumber": "0123-4567",
+      "state": 1
+    },
+    {
+      "id": "2h3g4f5d6s7",
+      "name": "Eva",
+      "lastname": "Diaz",
+      "email": "eva.diaz@example.com",
+      "company": "DigitalScape",
+      "position": "Training Coordinator",
+      "phonenumber": "2345-6789",
+      "state": 0
+    }
+  ]
+}
